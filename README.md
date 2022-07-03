@@ -1,3 +1,3 @@
 # Travel-Landing-Page
-Figma design to HTML
-The Figma File: shorturl.at/hiGUV
+Figma design to HTML<p>
+The Figma File: shorturl.at/hiGUV</p>
